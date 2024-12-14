@@ -5,7 +5,8 @@ Este repositório contém um bot simples para Telegram desenvolvido em Python, u
 ## Funcionalidades
 
 - **/start**: Apresentação inicial do bot.
-- **/ca**: Exibe uma constante predefinida relacionada ao "CA Token".
+- **/ca**: Exibe uma constante predefinida relacionada ao "Coin address do seu Token".
 - **/website**: Fornece o link de um website.
 - **/telegram**: Compartilha o link de um grupo ou canal do Telegram.
+## Altere o valor das constantes {WEBSITE} -- {CA} -- {TELEGRAM} , para os seus respectivos.
 
